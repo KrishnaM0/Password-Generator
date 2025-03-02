@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@media(max-width: 700px){
+    .div-selection{
+       display: block;
+    }
+    .div-selection div{
+        margin-top: 0.4rem;
+    }
+
+}
